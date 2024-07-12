@@ -9,6 +9,4 @@ The layout was originally ideated by xahy, while knave created the silkscreen ar
 At the moment this is purely a skeleton kit consisting of only the pcb and bottom plate, there are no plans for a proper case.
 <br><br>
 To-Do list: 
-- Order Protos
 - Write Firmware
-- Write BOM
